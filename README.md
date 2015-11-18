@@ -1,19 +1,19 @@
 # Canela #
-Titel Überschrif
+Eine Liste aus
 
- 1. A numbered 
- 2. 1. A nested numbered list
- 2. Which is numbered
- 2. Which is numbered
+ 1. Ein Element
+ 2. Zwei Elemente
+ 3. Drei Elemente 
+ 4. Viele Elemente 
             
             
-| Tables   |      Are      |  Cool |
+| Tables   |    everywhere |  good |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| here     |  left         | oh :0 |
+| move it  |    centered   |   uhu |
+|continuos | right?        |   ph  |
 
- _Kursiv_
+ _Dieser Text ist Kursiv_
  
- **Fett text**
+ **Dieser Text ist Fett :'( **
  
