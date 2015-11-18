@@ -15,5 +15,5 @@ Eine Liste aus
 
  _Dieser Text ist Kursiv_
  
- **Dieser Text ist Fett :'( **
+ **Dieser Text ist Fett :'(**
  
